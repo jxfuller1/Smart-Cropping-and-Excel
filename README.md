@@ -10,3 +10,6 @@ Use what you want from it.
 Note:  The way the Smart cropping works is by reading the background color, then iterates through the TOP/SIDES/BOTTOM pixels
 each separately until it finds an RGB value significately different from the background color and sets that location
 for the crop.
+
+Note #2:  This uses PyQt5 GUI.  You enter in the filename of the PDF you want the script to work on and it auto finds the file
+within the given pathway listed in the "balloned_folder" variable pathway.
