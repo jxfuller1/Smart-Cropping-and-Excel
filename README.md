@@ -13,3 +13,6 @@ for the crop.
 
 Note #2:  This uses PyQt5 GUI.  You enter in the filename of the PDF you want the script to work on and it auto finds the file
 within the given pathway listed in the "balloned_folder" variable pathway.
+
+
+![image](https://user-images.githubusercontent.com/123666150/214939533-1819d362-b238-447d-bc32-7242d783992e.PNG)
